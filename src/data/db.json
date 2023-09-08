@@ -1,0 +1,20 @@
+{
+  "comic": [
+    {
+      "id": 1,
+      "name": "Ramesh Kumar",
+      "genre": "E",
+      "excerpt": "A",
+      "writtenby": "ABC",
+      "publisher": "pub1"
+    },
+    {
+      "id": 2,
+      "name": "sandeep",
+      "genre": "J",
+      "excerpt": "N",
+      "writtenby": "k",
+      "publisher": "pub3"
+    }
+  ]
+}
